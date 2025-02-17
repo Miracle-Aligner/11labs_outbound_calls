@@ -1,0 +1,1 @@
+Hi{name}, I am Driver Express Assistant. You applied for a delivery driver role via Driver Express. Before we proceed, is this language okay for you, or would you like to switch?
